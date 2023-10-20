@@ -3,7 +3,7 @@
 </div>
 
 <hr>
-<a href="https://github.com/ItaloPachecoMustaro/dio-hero-level-sorter-challenge/blob/main/README.md">Don't speak Portuguese? Click here to see the English version.</a>
+<a href="https://github.com/ItaloPachecoMustaro/dio-hero-level-sorter-challenge/blob/main/README.md">Não fala Inglês? Clique aqui para ver a versão em português.</a>
 <hr>
 
 ## 📚Description
