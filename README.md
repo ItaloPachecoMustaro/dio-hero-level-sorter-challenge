@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Bem-vindo ao Desafio Potência Tech iFood - Programação do Zero</h1> 
+<h1>Bem-vindo ao Desafio-01 Potência Tech iFood - Programação do Zero</h1> 
 </div>
 
 <hr>
@@ -30,5 +30,3 @@ Este é um desafio que criei como parte do Bootcamp Potência Tech iFood - Progr
 ## 🔧Ferramentas Utilizadas
 
 - JavaScript
-
-
