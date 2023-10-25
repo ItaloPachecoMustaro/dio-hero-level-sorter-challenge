@@ -1,14 +1,28 @@
 <div align="center">
-<h1>Bem-vindo ao Desafio-01 Potência Tech iFood - Programação do Zero</h1> 
+<h1>Bem-vindo aos Desafios Potência Tech iFood - Programação do Zero</h1> 
 </div>
 
 <hr>
-<a href="https://github.com/ItaloPachecoMustaro/dio-hero-level-sorter-challenge/blob/main/README-EN.md">Don't speak Portuguese? Click here to see the English version.</a>
+<a href="https://github.com/ItaloPachecoMustaro/dio-programming-from-scratch-challenges/blob/main/README-EN.md">Don't speak Portuguese? Click here to see the English version.</a>
 <hr>
 
 ## 📚Descrição
 
-Este é um desafio que criei como parte do Bootcamp Potência Tech iFood - Programação do Zero da Dio. O desafio consiste em desenvolver um classificador de níveis de heróis, utilizando conceitos básicos de lógica de programação.
+### Desafio-01 Classificador de nível de Herói
+
+O desafio consiste em desenvolver um classificador de níveis de heróis, utilizando conceitos básicos de lógica de programação.
+
+<br>
+
+### Desafio-02 Classificador de nível de Herói
+
+ O desafio consiste em desenvolver uma calculadora de partidas rankeadas, utilizando conceitos básicos de lógica de programação.
+
+<br>
+
+## 🔧Ferramentas Utilizadas
+
+- JavaScript
 
 <br>
 
@@ -27,6 +41,6 @@ Este é um desafio que criei como parte do Bootcamp Potência Tech iFood - Progr
 
 <br>
 
-## 🔧Ferramentas Utilizadas
+## Curso Relacionado
 
-- JavaScript
+- [Potência Tech iFood - Programação do Zero](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
