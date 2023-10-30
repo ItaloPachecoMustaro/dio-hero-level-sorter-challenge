@@ -1,0 +1,37 @@
+Versão Português
+
+Instruções do desafio!
+
+3️⃣ Desafio Escolha seu pokemon
+
+No mundo dos jogos Pokémon, os treinadores começam sua jornada escolhendo um dos três Pokémons iniciais: Bulbasaur, Charmander e Mewtwo. Cada treinador escolhe um dos quatro pokemons. Seu desafio é criar uma solução que permita ao jogador escolher um dos Pokémons iniciais e exibir uma mensagem de boas-vindas e o Pokémon escolhido.
+
+Entrada
+
+Você receberá um número inteiro que representa a escolha do treinador: 1 para Bulbasaur, 2 para Charmander, 4 Pikachu e 5 para Mewtwo.
+
+Saída
+
+A saída deve ser uma mensagem de boas-vindas que inclua o nome do Pokémon escolhido.
+
+Bons estudos 😉
+
+///
+
+English version
+
+Challenge instructions!
+
+3️⃣ Challenge Choose your pokemon
+
+In the world of Pokémon games, trainers begin their journey by choosing one of three starter Pokémon: Bulbasaur, Charmander and Mewtwo. Each trainer chooses one of four pokemons. Your challenge is to create a solution that allows the player to choose one of the starter Pokémon and display a welcome message and the chosen Pokémon.
+
+Prohibited
+
+You will receive an integer that represents the trainer's choice: 1 for Bulbasaur, 2 for Charmander, 4 Pikachu, and 5 for Mewtwo.
+
+Exit
+
+The output should be a welcome message that includes the name of the chosen Pokémon.
+
+Good studies 😉

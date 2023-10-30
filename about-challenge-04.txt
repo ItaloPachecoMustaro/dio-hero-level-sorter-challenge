@@ -1,0 +1,57 @@
+Versão Português
+
+Instruções do desafio!
+
+4️⃣ Desafio Jornada Heróica Pela Masmorra
+
+Sua missão é vasculhar as salas da masmorra em busca de recompensas lendárias e desafios perigosos. Cada sala pode conter monstros formidáveis, tesouros preciosos ou ambos. Use suas habilidades estratégicas para enfrentar as ameaças e coletar os tesouros!
+
+Tarefa 
+
+Escreva um programa que simule sua jornada heróica pela masmorra. O programa deve percorrer cada sala e verificar se há tesouros ou monstros. Se você encontrar um tesouro, colecionará a recompensa. Se encontrar um monstro, terá que derrotá-lo para continuar.
+
+Atenção
+
+Em nossa resolução utilizamos a função.includes() do JavaScript para verificar se um número (representando a sala atual) está presente nos arrays salasComTesouro e salasComMonstro.
+
+Entrada
+
+O número total de salas no dungeon (um número inteiro).
+
+Saída
+
+Sempre que encontrar um tesouro, imprima " Tesouro na sala X!".
+
+Sempre que encontrar um monstro, imprima "Monstro na sala X!".
+
+Bons estudos 😉
+
+///
+
+English version
+
+Challenge instructions!
+
+4️⃣ Heroic Journey Through the Dungeon Challenge
+
+Your mission is to scour the dungeon rooms in search of legendary rewards and dangerous challenges. Each room can contain formidable monsters, precious treasures, or both. Use your strategic skills to face threats and collect treasures!
+
+Task
+
+Write a program that simulates your heroic journey through the dungeon. The program must go through each room and check for treasures or monsters. If you find a treasure, you will collect the reward. If you encounter a monster, you will have to defeat it to continue.
+
+Attention
+
+In our resolution, we use JavaScript's.includes() function to check whether a number (representing the current room) is present in the salaComTesouro and salaComMonstro arrays.
+
+Prohibited
+
+The total number of rooms in the dungeon (a whole number).
+
+Exit
+
+Whenever you find a treasure, print "Treasure in room X!".
+
+Whenever you encounter a monster, print "Monster in room X!".
+
+Good studies 😉

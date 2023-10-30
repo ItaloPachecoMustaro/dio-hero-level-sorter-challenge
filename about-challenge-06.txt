@@ -1,0 +1,67 @@
+Versão Português
+
+Instruções do desafio!
+
+6️⃣ Desafio Classificador de nível de Herói
+
+O Que deve ser utilizado
+
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
+
+Objetivo
+
+Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+
+Se XP for menor do que 1.000 = Ferro
+Se XP for entre 1.001 e 2.000 = Bronze
+Se XP for entre 2.001 e 5.000 = Prata
+Se XP for entre 6.001 e 7.000 = Ouro
+Se XP for entre 7.001 e 8.000 = Platina
+Se XP for entre 8.001 e 9.000 = Ascendente
+Se XP for entre 9.001 e 10.000= Imortal
+Se XP for maior ou igual a 10.001 = Radiante
+
+Saída
+
+Ao final deve se exibir uma mensagem:
+"O Herói de nome {nome} está no nível de {nivel}"
+ 
+Bons estudos 😉
+
+///
+
+English version
+
+Challenge instructions!
+
+6️⃣ Hero Level Sorter
+
+What should be used
+
+- Variables
+- Operators
+- Repeat loops
+- Decision structures
+
+goal
+
+Create a variable to store a hero's name and amount of experience (XP), then use a decision structure to display one of the messages below:
+
+If XP is less than 1,000 = Iron
+If XP is between 1,001 and 2,000 = Bronze
+If XP is between 2,001 and 5,000 = Silver
+If XP is between 6,001 and 7,000 = Gold
+If XP is between 7,001 and 8,000 = Platinum
+If XP is between 8,001 and 9,000 = Ascendant
+If XP is between 9,001 and 10,000 = Immortal
+If XP is greater than or equal to 10,001 = Radiant
+
+Exit
+
+At the end, a message should be displayed:
+"The Hero named {name} is at {level}"
+
+Good studies 😉

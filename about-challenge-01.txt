@@ -1,0 +1,43 @@
+Versão Português
+
+Instruções do desafio!
+
+1️⃣ Desafio Contador de passos
+
+Você é um jovem herói que embarca em uma jornada épica para derrotar o temido dragão que aterroriza o reino. No entanto, você precisa atravessar uma floresta perigosa para chegar à caverna do dragão. Cada passo é crucial, e sua jornada será determinada pela lógica afiada que você possuir.
+
+Tarefa: Escreva um algoritmo que simule a jornada do herói pela floresta. O herói começa em uma posição inicial e deve dar uma série de passos para atravessar a floresta até a caverna do dragão.
+
+Entrada
+
+A posição inicial do herói na floresta (um número inteiro).
+O número total de passos que o herói deve dar (um número inteiro).
+
+Saída
+
+Imprima a posição final do herói após dar a quantidade de passos especificada.
+
+Bons estudos 😉
+
+///
+
+English version
+
+Challenge instructions!
+
+1️⃣ Step Counter Challenge
+
+You are a young hero who embarks on an epic journey to defeat the dreaded dragon that terrorizes the kingdom. However, you need to cross a dangerous forest to reach the dragon's cave. Every step is crucial, and your journey will be determined by the sharp logic you possess.
+
+Task: Write an algorithm that simulates the hero's journey through the forest. The hero starts from a starting position and must take a series of steps to traverse the forest to the dragon's cave.
+
+Prohibited
+
+The hero's starting position in the forest (a whole number).
+The total number of steps the hero must take (a whole number).
+
+Exit
+
+Print the hero's final position after taking the specified number of steps.
+
+Good studies 😉

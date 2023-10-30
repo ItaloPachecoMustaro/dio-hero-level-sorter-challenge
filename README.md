@@ -6,23 +6,66 @@
 <a href="https://github.com/ItaloPachecoMustaro/dio-programming-from-scratch-challenges/blob/main/README-EN.md">Don't speak Portuguese? Click here to see the English version.</a>
 <hr>
 
+
 ## 📚Descrição
 
-### Desafio-01 Classificador de nível de Herói
+Este repositório contém uma série de desafios que se concentram na exploração e aplicação dos princípios fundamentais de lógica de programação, utilizando a linguagem JavaScript.
 
-O desafio consiste em desenvolver um classificador de níveis de heróis, utilizando conceitos básicos de lógica de programação.
 
-<br>
+## Desafios
 
-### Desafio-02 Classificador de nível de Herói
+### Desafio-01 Contador de passos | JavaScript
+[about-challenge-01.txt](./about-challenge-01.txt)
 
- O desafio consiste em desenvolver uma calculadora de partidas rankeadas, utilizando conceitos básicos de lógica de programação.
+[challenge-01.js](./challenge-01.js)
 
-<br>
+### Desafio-02 Ganho de XP | JavaScript
 
-## 🔧Ferramentas Utilizadas
+[about-challenge-02.txt](./about-challenge-02.txt)
 
-- JavaScript
+[challenge-02.js](./challenge-02.js)
+
+### Desafio-03 Escolha seu pokemon | JavaScript
+
+[about-challenge-03.txt](./about-challenge-03.txt)
+
+[challenge-03.js](./challenge-03.js)
+
+### Desafio-04 Jornada Heróica Pela Masmorra | JavaScript
+
+[about-challenge-04.txt](./about-challenge-04.txt)
+
+[challenge-04.js](./challenge-04.js)
+
+### Desafio-05 Mestre Construtor | JavaScript
+
+[about-challenge-05.txt](./about-challenge-05.txt)
+
+[challenge-05.js](./challenge-05.js)
+
+### Desafio-06 Classificador de nível de Herói | JavaScript
+
+[about-challenge-06.txt](./about-challenge-06.txt)
+
+[challenge-06.js](./challenge-06.js)
+
+### Desafio-07 Calculadora de partidas Rankeadas | JavaScript
+
+[about-challenge-07.txt](./about-challenge-07.txt)
+
+[challenge-07.js](./challenge-07.js)
+
+### Desafio-08 Calculadora de Salário  | JavaScript
+
+[about-challenge-08.txt](./about-challenge-08.txt)
+
+[challenge-08.js](./challenge-08.js)
+
+### Desafio-09 Escrevendo as classes de um Jogo | JavaScript
+
+[about-challenge-09.txt](./about-challenge-09.txt)
+
+[challenge-09.js](./challenge-09.js)
 
 <br>
 
@@ -31,6 +74,7 @@ O desafio consiste em desenvolver um classificador de níveis de heróis, utiliz
 - Italo Pacheco Mustaro - Desenvolvedor principal
 
 <br>
+
 
 ## 👨‍🏫Tutores do Bootcamp
 
@@ -41,6 +85,11 @@ O desafio consiste em desenvolver um classificador de níveis de heróis, utiliz
 
 <br>
 
+
 ## Curso Relacionado
 
 - [Potência Tech iFood - Programação do Zero](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
+
+## Certificado Relacionado
+
+- [Potência Tech iFood - Programação do Zero](?)

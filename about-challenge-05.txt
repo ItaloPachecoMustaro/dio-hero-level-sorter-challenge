@@ -1,0 +1,43 @@
+Versão Português
+
+Instruções do desafio!
+
+5️⃣ Desafio Mestre Construtor
+
+Você é um mestre construtor em um mundo de blocos e tem a tarefa de gerar biomas em diferentes regiões do mundo. Cada bioma tem características únicas, como tipos de solo, vegetação e clima.
+
+Tarefa
+Sua tarefa é coletar minérios enquanto ataca uma rocha com sua picareta. Use loops e lógica de programação para representar cada golpe na rocha e determinar qual minério foi obtido.
+
+Entrada
+
+O programa irá solicitar que você digite um número inteiro positivo representando a quantidade de golpes que você deseja dar com a picareta.
+
+Saída
+
+Para cada golpe que você der, o programa exibirá uma mensagem indicando o resultado do golpe. Será mostrado o número do golpe e o minério obtido, que pode ser 1: Carvao, 2: Ferro, 3: Diamante e 4: Pedra.
+
+Bons estudos 😉
+
+///
+
+English version
+
+Challenge instructions!
+
+5️⃣ Master Builder Challenge
+
+You are a master builder in a blocky world and are tasked with generating biomes in different regions of the world. Each biome has unique characteristics, such as soil types, vegetation and climate.
+
+Task
+Your task is to collect ores while attacking a rock with your pickaxe. Use loops and programming logic to represent each rock strike and determine which ore was obtained.
+
+Prohibited
+
+The program will ask you to enter a positive integer representing the number of hits you want to make with the pickaxe.
+
+Exit
+
+For each blow you make, the program will display a message indicating the result of the blow. The strike number and the ore obtained will be shown, which can be 1: Coal, 2: Iron, 3: Diamond and 4: Stone.
+
+Good studies 😉
