@@ -9,7 +9,7 @@
 
 ## 📚Descrição
 
-Este repositório contém uma série de desafios que se concentram na exploração e aplicação dos princípios fundamentais de lógica de programação, utilizando a linguagem JavaScript.
+Este repositório contém uma série de desafios que se concentram na exploração e aplicação dos princípios fundamentais de lógica de programação. Durante o bootcamp, adquiri conhecimentos sobre princípios de desenvolvimento ágil e colaborativo, Git e GitHub, e, o mais importante, lógica de programação com diversas linguagens, com foco principal em JavaScript.
 
 
 ## Desafios
