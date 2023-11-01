@@ -8,7 +8,7 @@
 
 ## 📚Description
 
-This repository contains a series of challenges that focus on exploring and applying the fundamental principles of programming logic using the JavaScript language.
+This repository contains a series of challenges that focus on exploring and applying the fundamental principles of programming logic. During the bootcamp, I gained knowledge about agile and collaborative development principles, Git and GitHub, and, most importantly, programming logic with different languages, with a main focus on JavaScript.
 
 ## Challenges
 
