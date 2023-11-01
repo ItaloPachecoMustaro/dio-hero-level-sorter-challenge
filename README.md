@@ -84,12 +84,3 @@ Este repositório contém uma série de desafios que se concentram na exploraç�
 - [Felipe Silva Aguiar](https://www.linkedin.com/in/felipe-exe/)
 
 <br>
-
-
-## Curso Relacionado
-
-- [Potência Tech iFood - Programação do Zero](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
-
-## Certificado Relacionado
-
-- [Potência Tech iFood - Programação do Zero](?)
