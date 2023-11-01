@@ -82,11 +82,3 @@ This repository contains a series of challenges that focus on exploring and appl
 - [Felipe Silva Aguiar](https://www.linkedin.com/in/felipe-exe/)
 
 <br>
-
-## Related Course
-
-- [Potência Tech iFood - Programação do Zero](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
-
-## Related Certificate
-
-- [Tech iFood Power - Programming from Scratch](?)
