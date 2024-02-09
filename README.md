@@ -9,7 +9,9 @@
 
 ## 📚Descrição
 
-Este repositório contém uma série de desafios que se concentram na exploração e aplicação dos princípios fundamentais de lógica de programação. Durante o bootcamp, adquiri conhecimentos sobre princípios de desenvolvimento ágil e colaborativo, Git e GitHub, e, o mais importante, lógica de programação com diversas linguagens, com foco principal em JavaScript.
+Este repositório contém uma série de desafios que se concentram na exploração e aplicação dos princípios fundamentais de lógica de programação. Durante o [bootcamp](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero)
+, adquiri conhecimentos sobre princípios de desenvolvimento ágil e colaborativo, Git e GitHub e lógica de programação, com foco principal em JavaScript.
+<br>
 
 
 ## Desafios
